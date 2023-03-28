@@ -1,0 +1,22 @@
+body {
+    background-color: #304a87;
+    color:white;
+}
+
+.homeContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:86vh;
+}
+
+.welcome {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.say {
+    font-size: 2rem;
+    font-weight: bolder;
+}
